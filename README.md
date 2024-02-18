@@ -1,3 +1,21 @@
+# Sql Assignments and Case Studies
+
+Welcome to my learning  repository! This repository serves as a centralized location for storing assignments and case studies related to SQL esq. Whether you're a student looking to practice your skills or an instructor seeking resources for your class, you'll find a variety of educational materials here.
+
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Getting Started
+
+To get started with using this learning platform, follow these steps:
+
+1. **Clone the Repository:** Clone this repository to your local machine using Git.
+
 2. **Explore the Content:** Browse through the directory structure to find assignments, case studies, and other resources organized by topic or category.
 
 ## Features
